@@ -4,9 +4,6 @@ let vector = ["aaa", "abc", "abd"];
 const minerals=[
     {name:"Allanite"},
     {name:"Albite"},
-    {name:"Apatite"},
-    {name:"barite"},
-    {name:"biotite"}
 ]
 let output=""
 for (let i=0; i<minerals.length; i++){
